@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @owenbharrison
-- 👀 I’m interested in C++, Java, Javascript, physical phenomena in general
+- 👀 I’m interested in C, C++, and Java
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on particle systems and physics simulations
+- 💞️ I’m looking to collaborate on physics, graphics, and cad engines
 - 📫 How to reach me owenbharrison@gmail.com
 
 <!---
